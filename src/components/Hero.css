@@ -1,0 +1,26 @@
+.hero-name {
+    font-size: 20px;
+    color: rgb(6, 6, 75);
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.hero-card {
+    margin: 10px;
+    background-color: aquamarine;
+    font-size: 8px;
+    border-radius: 10%;
+    padding: 5%;
+}
+
+.hero-img {
+    padding: 5px;
+    border-radius: 10%;
+    width: 95%;
+}
+
+span {
+    font-weight: 600;
+    font-size: 12px;
+}
